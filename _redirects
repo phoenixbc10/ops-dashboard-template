@@ -1,0 +1,10 @@
+/dashboard.html  /  301
+/dashboard  /  301
+/follow-ups  /not-in-preview.html  200
+/reports  /not-in-preview.html  200
+/reports/*  /not-in-preview.html  200
+/logout  /not-in-preview.html  200
+/assistant  /not-in-preview.html  200
+/crew  /not-in-preview.html  200
+/leads  /not-in-preview.html  200
+/api/*  /not-in-preview.html  200
